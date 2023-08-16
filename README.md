@@ -2,7 +2,7 @@
 Selamat Datang di CoverLab Music jika anda ingin cover lagu silahkan pilih tombol tersebut
 
 ### Spilt dan Separate Suaramu dari YouTube atau Google Drive
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ammarsyarif285/AI-Song-Cover-RVC/blob/main/Download_Youtube_WAV_and_Splitting_Audio.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ammarsyarif285/CoverLab-Music/blob/main/Split_dan_Separate_Audio_WAV.ipynb)
 
 
 ### Training dan Interfacekan Suara Karakter
