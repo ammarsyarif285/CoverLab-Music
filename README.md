@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ammarsyarif285
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# CoverLab Music
+Selamat Datang di CoverLab Music jika anda ingin cover lagu silahkan pilih tombol tersebut
 
-<!---
-ammarsyarif285/ammarsyarif285 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Spilt dan Separate Suaramu dari YouTube atau Google Drive
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/Download_Youtube_WAV_and_Splitting_Audio.ipynb)
+
+
+### Training dan Interfacekan Suara Karakter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/RVC_TrainingV2.ipynb)
